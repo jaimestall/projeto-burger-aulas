@@ -10,5 +10,6 @@
 - Criação de repositório no Git e versionamento diretamente funcional
 
 ## Próximos passos:
-Eu tenho dois projetos que gostaria de seguir: um database e um blog
+Eu tenho dois projetos que gostaria de seguir: um database e um blog.
+
 Para isso eu quero terminar este projeto de Vue, entender a fundo cada função nele utilizada, implementar isso em outros pequenos projetos e otimizar os trabalhos. Além disso vou estudar SQL, servidores e instalação de um banco de dados, desta vez, funcional.
