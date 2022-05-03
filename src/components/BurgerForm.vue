@@ -109,7 +109,7 @@ export default {
       // limpar msg do sistema
       setTimeout(() => {
         this.msg = "";
-      }, 3000);
+      }, 5000);
       // limpar os campos
       this.nome = "";
       this.carnes = "";
