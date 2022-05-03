@@ -7,6 +7,7 @@
 - Criação de components no formato .vue
 - Utilização de maneira correta de life cycle hooks
 - Criação de requisições e utilização delas dentro do app
+- Criação de repositório no Git e versionamento diretamente funcional
 
 ## Próximos passos:
 Eu tenho dois projetos que gostaria de seguir: um database e um blog
