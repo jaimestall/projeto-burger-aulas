@@ -79,12 +79,31 @@
   ],
   "burgers": [
     {
-      "nome": "Ju",
-      "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
+      "nome": "JAIME JOSE STALL FILHO",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
       "opcionais": [
-        "Salame",
-        "Cebola roxa"
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "Broly",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    },
+    {
+      "nome": "Broly",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon"
       ],
       "status": "Solicitado",
       "id": 3
