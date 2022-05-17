@@ -31,5 +31,5 @@ export default {
 </script>
 
 <style scoped>
-/* Tag <style> com atributo scoped para estilização pontual DO COMPONENTE */
+/* Tag <style> com atributo 'scoped' para estilização pontual DO COMPONENTE */
 </style>

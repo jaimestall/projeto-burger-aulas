@@ -164,12 +164,14 @@ export default {
   margin: 0 auto;
   max-width: 400px;
 }
+
 /* Estabelece display: flex para os itens da classe input-container e os ordena em coluna, ficando em ordem de cima para baixo. Além disso acrescenta uma margin abaixo para separação */
 .input-container {
   display: flex;
   flex-direction: column;
   margin-bottom: 20px;
 }
+
 /* Trata o texto, a margem e o padding das labels do formulário e cria a decoração com a borda da esquerda como um detalhe em amarelo */
 label {
   font-weight: bold;
@@ -178,21 +180,25 @@ label {
   padding: 5px 10px;
   border-left: 4px solid #fcba03;
 }
+
 /* Tratamento para colocar padding e largura nos inputs e selects do formulário */
 input,
 select {
   padding: 5px 10px;
   width: 300px;
 }
+
 /* Atribui direção de linha para os itens opcionais e faz com que eles quebrem ao atingirem a largura máxima pré estabelecida (400px) */
 #opcionais-container {
   flex-direction: row;
   flex-wrap: wrap;
 }
+
 /* Dá ao título a largura de 100% para que ele não apareça como um item da lista de opcionais */
 #opcionais-title {
   width: 100%;
 }
+
 /* Coloca todos os checkbox como display flex, alinha-os para que comecem à esquerda, coloca largura máxima 50% para que fiquem 2 por linha e acrescenta uma margem abaixo de 20px para separação estética */
 .checkbox-container {
   display: flex;
@@ -200,16 +206,19 @@ select {
   width: 50%;
   margin-bottom: 20px;
 }
+
 /* Coloca nas tags span e input de dentro do checkbox-container a largura automatica */
 .checkbox-container span,
 .checkbox-container input {
   width: auto;
 }
+
 /* Estabelece para o span dos checkbox-container uma margin à esquerda (para se afastar do checkbox propriamente dito) e coloca os textos em negrito */
 .checkbox-container span {
   margin-left: 6px;
   font-weight: bold;
 }
+
 /* Estiliza o botão de submit, colocando cor de fundo, modificando a cor, tamanho e tipo do texto, acrescenta borda, padding, margin, altera o cursor para pointer no momento em que o usuário posicione o mouse sobre ele e acrescenta o :hover para que, ao mover o mouse sobre o botão, alterar a cor do fundo e a cor das letras */
 .submit-btn {
   background-color: #222;
@@ -222,6 +231,7 @@ select {
   cursor: pointer;
   transition: 0.5s;
 }
+
 .submit-btn:hover {
   background-color: transparent;
   color: #222;

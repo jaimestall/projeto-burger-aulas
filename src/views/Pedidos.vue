@@ -5,7 +5,7 @@
 <template>
   <!-- No template desta view é criada uma div com class main-container (estilizado no componente Root da aplicação) e nesta div é colocado um título h1 (que também estilizado na root) e o chamado para o componente filho chamado Dashboard, que será importado logo abaixo no script e enviado para o template pelo export default -->
   <div class="main-container">
-    <h1>Gerenciar pedidos:</h1>
+    <h1>Gerenciar pedidos</h1>
     <Dashboard />
   </div>
 </template>

@@ -46,11 +46,13 @@ export default {
   margin: 0;
   padding: 0;
 }
+
 /* Margem e altura mínima do conteúdo principal */
 .main-container {
   margin: 50px;
   min-height: 250px;
 }
+
 /* Estilização geral de títulos do projeto */
 h1 {
   text-align: center;

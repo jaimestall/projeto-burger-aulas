@@ -79,34 +79,25 @@
   ],
   "burgers": [
     {
-      "nome": "JAIME JOSE STALL FILHO",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
       "nome": "Broly",
       "carne": "Alcatra",
       "pao": "3 Queijos",
       "opcionais": [
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 2
     },
     {
       "nome": "Broly",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
       "opcionais": [
-        "Bacon"
+        "Bacon",
+        "Tomate"
       ],
       "status": "Solicitado",
-      "id": 3
+      "id": 4
     }
   ]
 }
