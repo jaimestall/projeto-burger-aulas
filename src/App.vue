@@ -1,7 +1,7 @@
 <!-- 
   Componente root, principal da aplicação. 
     <template>
-    No template dele é passado o component de Navbar e Footer, além das rotas com <router-view />. 
+    No template dele é passado o component de Navbar e Footer, além das rotas com <router-view />
     Na chamada do componente Navbar são passados os dados "logo" e "alt" pelo v-bind, que serão usados na tag <img> do template filho.
     <script>
     No script, por primeiro é feita a importação dos Components filhos do Root (Navbar e Footer). Em seguida, no "export default" tem o chamado dos components importados e a declaração dos dados que serão utilizados no template (nesse caso serão passados aos filhos pelo v-bind).
